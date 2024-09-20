@@ -17,3 +17,6 @@ pip install transformers==4.35.2 torch==2.1.1 gradio==4.17.0 langchain==0.0.343 
 ### installing ffmpeg to be able to work with audio files
 sudo apt update
 sudo apt install ffmpeg -y
+
+### Gradio
+pip install --upgrade gradio
