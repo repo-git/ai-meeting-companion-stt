@@ -18,5 +18,5 @@ pip install transformers==4.35.2 torch==2.1.1 gradio==4.17.0 langchain==0.0.343 
 sudo apt update
 sudo apt install ffmpeg -y
 
-### Gradio
+### install Gradio
 pip install --upgrade gradio
